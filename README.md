@@ -69,7 +69,9 @@ made sure you can uplaod images thorugh the link or from computer
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/FinalProjectwebdev' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://imgur.com/gallery/FinalProjectwebdev
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
