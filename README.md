@@ -69,12 +69,13 @@ made sure you can uplaod images thorugh the link or from computer
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/O3qwyOw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://i.imgur.com/O3qwyOw.gif](https://i.imgur.com/O3qwyOw.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 https://i.imgur.com/O3qwyOw.gif
+https://i.imgur.com/O3qwyOw.mp4
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...   ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
