@@ -69,7 +69,7 @@ made sure you can uplaod images thorugh the link or from computer
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://i.imgur.com/O3qwyOw.gif](https://i.imgur.com/O3qwyOw.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/O3qwyOw.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 https://i.imgur.com/O3qwyOw.gif
 https://i.imgur.com/O3qwyOw.mp4
